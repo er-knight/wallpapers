@@ -1,4 +1,8 @@
 # 🖼️ Wallpapers
+Wallpaper collection from all over the Internet
+
+## Resources
+- [ImageGoNord](https://ign.schrodinger-hat.it/getting-started)
 
 ## Git Configuration
 
